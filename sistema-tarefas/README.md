@@ -2,7 +2,7 @@
 
 ## Visão geral
 
-Esta seção descreve como a Formaz organiza o atendimento de demandas por meio do sistema de tarefas (Redmine).
+Esta seção descreve como a Formaz organiza o atendimento de demandas por meio do sistema de tarefas (Redmine).  
 O foco é padronizar categorias, tipos de tarefa, prioridades, responsáveis e fluxos de atendimento.
 
 ---
@@ -23,11 +23,15 @@ Sugestão de termos a padronizar:
 
 ## Estrutura desta seção
 
-- `sistema-tarefas/README.md`
-  Visão geral, conceitos e regras gerais.
+- [Visão geral e regras](README.md)  
+- [Fluxos do sistema de tarefas](fluxos/)
 
-- `sistema-tarefas/fluxos/`
-  Diagramas Mermaid e descrições textuais dos fluxos de atendimento.
+---
+
+## Fluxos disponíveis
+
+- **ADM / Qualificação – Tipo: Qualificação**  
+  👉 [Ver fluxo](fluxos/fluxo-adm-qualificacao-tipo-qualificacao.md)
 
 ---
 
